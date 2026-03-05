@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Rizky Dian Permana</b><br>
-  Automation Bot Developer
+  <br>Automation Bot Developer
   WhatsApp & Telegram
 </p>
 
